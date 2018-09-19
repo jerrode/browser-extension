@@ -1,5 +1,13 @@
 Codecov Extension
 =================
+
+[UPDATE September 2018]
+
+Codecov had partnered with Sourcegraph to deliver a new browser extension experience within the Sourcegraph ecosystem. https://github.com/codecov/sourcegraph-codecov
+
+Additionally, the dedicated Codecov browser extension has been deprecated. 
+
+
 > Overlay reports directly into Github and Bitbucket to streamline your workflow.
 
 [![video][10]][11]
